@@ -1,2 +1,2 @@
 # Customer-Support-Portal
-A mern stack projrct
+A mern stack project
